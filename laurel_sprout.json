@@ -1,0 +1,8 @@
+{
+	"device": "laurel_sprout",
+	"vendor": "xiaomi",
+	"name": "Mi A3",
+	"brand": "Xiaomi",
+	"soc": "Qualcomm SDM665 Snapdragon 665",
+	"platform": "trinket"
+}

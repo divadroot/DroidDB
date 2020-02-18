@@ -1,0 +1,8 @@
+{
+	"device": "willow",
+	"vendor": "xiaomi",
+	"name": "Redmi Note 8T",
+	"brand": "Xiaomi",
+	"soc": "Qualcomm SDM665 Snapdragon 665",
+	"platform": "trinket"
+}

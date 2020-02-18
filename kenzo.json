@@ -1,0 +1,8 @@
+{
+	"device": "kenzo",
+	"vendor": "xiaomi",
+	"name": "Redmi Note 3 Snapdragon",
+	"brand": "Xiaomi",
+	"soc": "Qualcomm MSM8956 Snapdragon 650",
+	"platform": "msm8956"
+}
