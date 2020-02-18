@@ -1,0 +1,8 @@
+{
+	"device": "mido",
+	"vendor": "xiaomi",
+	"name": "Redmi Note 4/4X Snapdragon",
+	"brand": "Xiaomi",
+	"soc": "Qualcomm MSM8953 Snapdragon 625",
+	"platform": "msm8953"
+}

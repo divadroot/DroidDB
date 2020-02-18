@@ -1,0 +1,8 @@
+{
+	"device": "cancro",
+	"vendor": "xiaomi",
+	"name": "Mi 3/Mi 4",
+	"brand": "Xiaomi",
+	"soc": "Qualcomm MSM8974 Snapdragon 800/801",
+	"platform": "msm8974"
+}
